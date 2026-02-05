@@ -14,14 +14,14 @@ Link | Description
 Projects in C| Repo link | Description
 --- | --- | ---
 ![libft_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/libftm.png) | **[Libft](https://github.com/ybutkov/42HN-libft)** |  **Own library of reproduced common C functions and some additional ones**
-![ft_printf_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/ft_printfe.png) | **[Ft_printf](https://github.com/ybutkov/42HN-printf)** | **Reproduction of the original printf function**
-![get_next_line_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/get_next_linem.png) | **[Get_next_line](https://github.com/ybutkov/42Heilbronn-get_next_line)** | **Function that returns the line with \n at the end**
-![minitalk_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/minitalkm.png) | **[Minitalk](https://github.com/ybutkov/42HN-minitalk)** | **A communication program in the form of a 'client' and a 'server'**
-![push_swap_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/push_swapm.png) | **[Push_swap](https://github.com/ybutkov/42HN-push_swap)** | **Data sorting algorithm project**
-![fract-ol_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/fract-olm.png) | **[Fract-ol](https://github.com/ybutkov/42HN-fract-ol)** | **This project is about creating graphically beautiful fractals**
-![philosophers_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/philosopherse.png) | **[Philosophers](https://github.com/ybutkov/42HN-philosophers)** | **Multithreading program**
-![minishell_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/minishelle.png) | **[Minishell](https://github.com/ybutkov/42HN-minishell)** | **This project is about creating a simple shell.**
-![cub3d_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/cub3dm.png) | **[Cub3D](https://github.com/ybutkov/42HN-cub3D)** | **Ray casting 3D Game.**
+![ft_printf_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/ft_printfm.png) | **[Ft_printf](https://github.com/ybutkov/42HN-printf)** | **Reproduction of the original printf function**
+![get_next_line_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/get_next_linem.png) | **[Get_next_line](https://github.com/ybutkov/42HN-get_next_line)** | **Function that returns the line with \n at the end**
+![pipex_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/pipexm.png) | **[Minitalk](https://github.com/ybutkov/42HN-pipex)** | **A communication program in the form of a 'client' and a 'server'**
+<!-- ![push_swap_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/push_swapm.png) | **[Push_swap](https://github.com/ybutkov/42HN-push_swap)** | **Data sorting algorithm project** -->
+![fdf_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/fdfm.png) | **[Fract-ol](https://github.com/ybutkov/42HN-FdF)** | **This project is about creating graphically beautiful fractals**
+![philosophers_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/philosophersm.png) | **[Philosophers](https://github.com/ybutkov/42HN-philosophers)** | **Multithreading program**
+![minishell_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/minishellm.png) | **[Minishell](https://github.com/ybutkov/42HN-minishell)** | **This project is about creating a simple shell.**
+![minirt_img](https://github.com/ybutkov/42-project-badges/blob/main/badges/minirtm.png) | **[miniRT](https://github.com/ybutkov/42HN-miniRT)** | **Minimal ray tracer.**
 
 
 <table>
@@ -34,14 +34,14 @@ Projects in C| Repo link | Description
     <td rowspan="5">
       <img src="https://github.com/ybutkov/42-project-badges/blob/main/badges/cppe.png" alt="cpp0_img" />
     </td>
-    <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_00">CPP_Module_00</a></strong></td>
+    <td><strong><a href="https://github.com/ybutkov/42HN-CPP00">CPP_Module_00</a></strong></td>
     <td><strong>Namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff</strong></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_01">CPP_Module_01</a></strong></td>
+    <td><strong><a href="https://github.com/ybutkov/42HN-CPP01">CPP_Module_01</a></strong></td>
     <td><strong>Memory allocation, pointers to members, references, switch statement</strong></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_02">CPP_Module_02</a></strong></td>
     <td><strong>Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form</strong></td>
   </tr>
@@ -52,12 +52,12 @@ Projects in C| Repo link | Description
   <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_04">CPP_Module_04</a></strong></td>
     <td><strong>Subtype polymorphism, abstract classes, interfaces</strong></td>
-  </tr>
+  </tr> -->
   <tr>
     <td rowspan="5">
       <img src="https://github.com/ybutkov/42-project-badges/blob/main/badges/cppm.png" alt="cpp0_img" />
     </td>
-    <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_05">CPP_Module_05</a></strong></td>
+    <!-- <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_05">CPP_Module_05</a></strong></td>
     <td><strong>Repetition and Exceptions</strong></td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ Projects in C| Repo link | Description
   <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP_Module_09">CPP_Module_09</a></strong></td>
     <td><strong>STL</strong></td>
-  </tr>
+  </tr> -->
 </table>
 
 
