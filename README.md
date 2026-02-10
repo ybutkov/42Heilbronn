@@ -40,7 +40,7 @@ Projects in C| Repo link | Description
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP01">CPP_Module_01</a></strong></td>
     <td><strong>Memory allocation, pointers to members, references, switch statement</strong></td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP02">CPP_Module_02</a></strong></td>
     <td><strong>Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form</strong></td>
   </tr>
@@ -51,7 +51,7 @@ Projects in C| Repo link | Description
   <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP04">CPP_Module_04</a></strong></td>
     <td><strong>Subtype polymorphism, abstract classes, interfaces</strong></td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td rowspan="5">
       <img src="https://github.com/ybutkov/42-project-badges/blob/main/badges/cppm.png" alt="cpp0_img" />
