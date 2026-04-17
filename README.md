@@ -52,11 +52,11 @@ Projects in C| Repo link | Description
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP04">CPP_Module_04</a></strong></td>
     <td><strong>Subtype polymorphism, abstract classes, interfaces</strong></td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td rowspan="5">
       <img src="https://github.com/ybutkov/42-project-badges/blob/main/badges/cppm.png" alt="cpp0_img" />
     </td> -->
-    <!-- <td><strong><a href="https://github.com/ybutkov/42HN-CPP05">CPP_Module_05</a></strong></td>
+    <td><strong><a href="https://github.com/ybutkov/42HN-CPP05">CPP_Module_05</a></strong></td>
     <td><strong>Repetition and Exceptions</strong></td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Projects in C| Repo link | Description
   <tr>
     <td><strong><a href="https://github.com/ybutkov/42HN-CPP09">CPP_Module_09</a></strong></td>
     <td><strong>STL</strong></td>
-  </tr> -->
+  </tr>
 </table>
 
 
